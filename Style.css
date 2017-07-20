@@ -15,7 +15,8 @@ div.page-header{
 
 .nav.nav-tabs{
     display: inline;
-    float: right;    
+    float: right; 
+    color: black;   
 }
 
 /*BODY*/
