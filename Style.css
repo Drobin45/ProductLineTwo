@@ -1,15 +1,22 @@
 ﻿body { 
-    background-color:#FFF9B1;   
+    background-color:#D8E8E0;   
 }
 
 /*HEADER*/
 
 div.page-header{
+    margin-top:20px;   
     background-color: #1F7F05;
-    color: #F0E4FF;
-    margin-top:20px;    
+    color: #F0E4FF;      
 }
+
 
 /*NAVBAR*/
 
+.nav.nav-tabs{
+    display: inline;
+    float: right;    
+}
+
+/*BODY*/
 
