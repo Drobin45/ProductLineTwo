@@ -13,11 +13,23 @@ div.page-header{
 
 /*NAVBAR*/
 
-.nav.nav-tabs{
+ul.nav.nav-tabs {
     display: inline;
-    float: right; 
-    color: black;   
+    float: right;
+    color: black;
+    margin-bottom: 30px;
+    margin-top: 10px;    
+}
+
+a {
+color: black;
 }
 
 /*BODY*/
+.img-responsive{
+    float:right;
+}
+p {
+    text-align: justify;
+}
 
