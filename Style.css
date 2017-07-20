@@ -1,2 +1,15 @@
-﻿body {
+﻿body { 
+    background-color:#FFF9B1;   
 }
+
+/*HEADER*/
+
+div.page-header{
+    background-color: #1F7F05;
+    color: #F0E4FF;
+    margin-top:20px;    
+}
+
+/*NAVBAR*/
+
+
